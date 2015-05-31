@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">AndroidMtest</string>
+
+	<string name="action_settings">Settings</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="all_base">All your base</string>
+	<string name="menu_settings">Settings</string>
+</resources>
